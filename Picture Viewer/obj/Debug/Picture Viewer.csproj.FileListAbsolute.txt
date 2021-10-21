@@ -1,0 +1,10 @@
+C:\Users\Youssef El-sayed\source\repos\Picture Viewer\bin\Debug\Picture Viewer.exe.config
+C:\Users\Youssef El-sayed\source\repos\Picture Viewer\bin\Debug\Picture Viewer.exe
+C:\Users\Youssef El-sayed\source\repos\Picture Viewer\bin\Debug\Picture Viewer.pdb
+C:\Users\Youssef El-sayed\source\repos\Picture Viewer\obj\Debug\Picture Viewer.csprojAssemblyReference.cache
+C:\Users\Youssef El-sayed\source\repos\Picture Viewer\obj\Debug\Picture_Viewer.Properties.Resources.resources
+C:\Users\Youssef El-sayed\source\repos\Picture Viewer\obj\Debug\Picture Viewer.csproj.GenerateResource.cache
+C:\Users\Youssef El-sayed\source\repos\Picture Viewer\obj\Debug\Picture Viewer.csproj.CoreCompileInputs.cache
+C:\Users\Youssef El-sayed\source\repos\Picture Viewer\obj\Debug\Picture Viewer.exe
+C:\Users\Youssef El-sayed\source\repos\Picture Viewer\obj\Debug\Picture Viewer.pdb
+C:\Users\Youssef El-sayed\source\repos\Picture Viewer\obj\Debug\Picture_Viewer.Pictures_Viewer.resources
